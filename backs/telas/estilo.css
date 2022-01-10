@@ -1,0 +1,26 @@
+body{
+	background-color: #87CEEB;
+}
+header{
+	margin-top: 10px;
+	background-color: #FFFFFF;
+	height: 100px;
+	padding-top: 10px;
+}
+h1{
+	text-align: center;
+}
+
+
+section{
+	margin-top: 10px;
+	background-color: #FFFFFF;
+	height: 100%;
+	padding: 10px;
+}
+label{
+	color: #000080;
+}
+span{
+	color: #8B0000;
+}
